@@ -1,0 +1,2357 @@
+{
+  "Administração": {
+    "Gestão de Pessoas": [
+      "Liderança e Gestão de Equipes",
+      "Motivação e Engajamento",
+      "Avaliação de Desempenho",
+      "Gestão de Conflitos",
+      "Cargos e Salários",
+      "Recrutamento e Seleção",
+      "Treinamento e Desenvolvimento",
+      "Clima Organizacional",
+      "Gestão de Talentos",
+      "Sucessão e Carreira",
+      "Cultura Organizacional",
+      "Retenção de Talentos"
+    ],
+    "Marketing": [
+      "Marketing Digital",
+      "Pesquisa de Mercado",
+      "Comportamento do Consumidor",
+      "Branding e Identidade de Marca",
+      "Gestão de Mídias Sociais",
+      "Marketing de Conteúdo",
+      "SEO e SEM",
+      "E-mail Marketing",
+      "Inbound Marketing",
+      "Marketing de Influência",
+      "Trade Marketing",
+      "Marketing Internacional",
+      "CRM - Gestão de Relacionamento",
+      "Analytics e Métricas",
+      "Mix de Marketing (4Ps)"
+    ],
+    "Finanças": [
+      "Contabilidade Básica",
+      "Contabilidade Gerencial",
+      "Gestão Financeira",
+      "Análise de Investimentos",
+      "Fluxo de Caixa",
+      "Orçamento Empresarial",
+      "Custos e Formação de Preços",
+      "Análise de Balanços",
+      "Mercado Financeiro",
+      "Controladoria",
+      "Planejamento Tributário",
+      "Valuation"
+    ],
+    "Empreendedorismo": [
+      "Modelos de Negócios",
+      "Plano de Negócios",
+      "Startup e Inovação",
+      "Pitch e Apresentações",
+      "Validação de Ideias",
+      "Lean Startup",
+      "Design Thinking",
+      "Canvas de Negócios",
+      "Captação de Recursos",
+      "Aceleração de Startups",
+      "Franchising",
+      "Intraempreendedorismo"
+    ],
+    "Estratégia Empresarial": [
+      "Planejamento Estratégico",
+      "Análise SWOT",
+      "Balanced Scorecard",
+      "Gestão de Projetos",
+      "Inteligência Competitiva",
+      "Gestão da Mudança",
+      "Inovação Estratégica",
+      "Fusões e Aquisições"
+    ],
+    "Operações e Logística": [
+      "Gestão de Operações",
+      "Supply Chain Management",
+      "Gestão de Estoques",
+      "Logística Empresarial",
+      "Distribuição e Transporte",
+      "Gestão da Qualidade Total",
+      "Processos Empresariais"
+    ],
+    "Fundamentos de Administração": [
+      "Teorias da Administração",
+      "Processos Organizacionais",
+      "Planejamento Estratégico",
+      "Funções Administrativas",
+      "Tomada de Decisão"
+    ],
+    "Administração Financeira": [
+      "Análise de Investimentos",
+      "Fluxo de Caixa",
+      "Orçamento Empresarial",
+      "Análise de Viabilidade Econômica"
+    ],
+    "Gestão da Produção e Operações": [
+      "Planejamento da Produção",
+      "Controle de Qualidade",
+      "Cadeia de Suprimentos",
+      "Lean Manufacturing"
+    ]
+  },
+  "Direito": {
+    "Direito Civil": [
+      "Contratos",
+      "Direitos Reais",
+      "Família e Sucessões",
+      "Responsabilidade Civil",
+      "Obrigações",
+      "Posse e Propriedade",
+      "Direito das Coisas",
+      "Negócios Jurídicos",
+      "Prescrição e Decadência",
+      "Direito do Consumidor",
+      "Parte Geral do Código Civil"
+    ],
+    "Direito Penal": [
+      "Crimes contra a Pessoa",
+      "Crimes contra o Patrimônio",
+      "Processo Penal",
+      "Teoria do Crime",
+      "Penas e Medidas de Segurança",
+      "Crimes Hediondos",
+      "Direito Penal Econômico",
+      "Execução Penal",
+      "Criminologia",
+      "Medicina Legal"
+    ],
+    "Direito Constitucional": [
+      "Direitos Fundamentais",
+      "Organização do Estado",
+      "Controle de Constitucionalidade",
+      "Poderes do Estado",
+      "Constitucionalismo",
+      "Direitos Sociais",
+      "Hermenêutica Constitucional",
+      "Processo Constitucional",
+      "Princípios Fundamentais",
+      "Direitos e Garantias Fundamentais"
+    ],
+    "Direito do Trabalho": [
+      "Contrato de Trabalho",
+      "Direitos Trabalhistas",
+      "Justiça do Trabalho",
+      "Negociações Coletivas",
+      "Segurança e Saúde no Trabalho",
+      "Terceirização",
+      "Previdência Social",
+      "Direito Sindical",
+      "Jornada de Trabalho",
+      "Férias e 13º Salário",
+      "FGTS e Verbas Rescisórias"
+    ],
+    "Direito Empresarial": [
+      "Sociedades Empresariais",
+      "Títulos de Crédito",
+      "Falência e Recuperação Judicial",
+      "Propriedade Intelectual",
+      "Contratos Empresariais",
+      "Direito Societário",
+      "Compliance"
+    ],
+    "Direito Tributário": [
+      "Sistema Tributário Nacional",
+      "Impostos Federais",
+      "Impostos Estaduais",
+      "Impostos Municipais",
+      "Execução Fiscal",
+      "Planejamento Tributário",
+      "Processo Administrativo Fiscal"
+    ],
+    "Direito Ambiental": [
+      "Legislação Ambiental",
+      "Crimes Ambientais",
+      "Licenciamento Ambiental",
+      "Recursos Hídricos",
+      "Biodiversidade",
+      "Mudanças Climáticas"
+    ],
+    "Direito Processual Civil": [
+      "Teoria Geral do Processo",
+      "Petição Inicial",
+      "Recursos",
+      "Execução"
+    ]
+  },
+  "Engenharia Civil": {
+    "Estruturas": [
+      "Concreto Armado",
+      "Estruturas Metálicas",
+      "Fundações",
+      "Análise Estrutural",
+      "Normas Técnicas",
+      "Pontes e Viadutos",
+      "Estruturas de Madeira",
+      "Patologia das Estruturas",
+      "Reforço Estrutural",
+      "Dimensionamento de Vigas e Pilares"
+    ],
+    "Construção Civil": [
+      "Materiais de Construção",
+      "Gestão de Obras",
+      "Tecnologia dos Materiais",
+      "Planejamento de Canteiro",
+      "Orçamentação de Obras",
+      "Fiscalização de Obras",
+      "Instalações Prediais",
+      "Impermeabilização",
+      "Alvenaria Estrutural",
+      "Construção Sustentável"
+    ],
+    "Hidráulica e Saneamento": [
+      "Saneamento Básico",
+      "Hidrologia",
+      "Instalações Hidrossanitárias",
+      "Drenagem Urbana",
+      "Abastecimento de Água",
+      "Tratamento de Água",
+      "Tratamento de Esgoto",
+      "Recursos Hídricos",
+      "Barragens"
+    ],
+    "Topografia e Geoprocessamento": [
+      "Levantamento Topográfico",
+      "Georreferenciamento",
+      "SIG - Sistemas de Informação Geográfica",
+      "Cartografia Básica",
+      "Sensoriamento Remoto",
+      "Geodésia",
+      "Fotogrametria"
+    ],
+    "Geotecnia": [
+      "Mecânica dos Solos",
+      "Investigação Geotécnica",
+      "Estabilidade de Taludes",
+      "Contenções",
+      "Obras de Terra",
+      "Pavimentação"
+    ],
+    "Transportes": [
+      "Engenharia de Tráfego",
+      "Projeto Geométrico de Estradas",
+      "Infraestrutura Viária",
+      "Mobilidade Urbana",
+      "Logística de Transportes"
+    ]
+  },
+  "Medicina": {
+    "Clínica Médica": [
+      "Cardiologia",
+      "Endocrinologia",
+      "Gastroenterologia",
+      "Pneumologia",
+      "Reumatologia",
+      "Nefrologia",
+      "Hematologia",
+      "Infectologia",
+      "Geriatria",
+      "Medicina Interna"
+    ],
+    "Cirurgia": [
+      "Cirurgia Geral",
+      "Traumatologia",
+      "Anestesiologia",
+      "Cirurgia de Urgência",
+      "Cirurgia Ambulatorial",
+      "Cirurgia Vascular",
+      "Neurocirurgia",
+      "Cirurgia Plástica",
+      "Cirurgia Cardíaca",
+      "Cirurgia Pediátrica"
+    ],
+    "Pediatria": [
+      "Neonatologia",
+      "Doenças Infecciosas",
+      "Vacinação",
+      "Crescimento e Desenvolvimento",
+      "Alergia e Imunologia Pediátrica",
+      "Pediatria Geral",
+      "Urgências Pediátricas",
+      "Nutrologia Pediátrica"
+    ],
+    "Ginecologia e Obstetrícia": [
+      "Pré-natal",
+      "Parto Normal e Cesariana",
+      "Patologias Obstétricas",
+      "Ginecologia Geral",
+      "Oncologia Ginecológica",
+      "Reprodução Humana",
+      "Climatério e Menopausa"
+    ],
+    "Saúde Coletiva": [
+      "Epidemiologia",
+      "Políticas de Saúde",
+      "Atenção Primária",
+      "Programas de Saúde Pública",
+      "Vigilância em Saúde",
+      "Saúde da Família",
+      "Medicina Preventiva"
+    ],
+    "Diagnóstico por Imagem": [
+      "Radiologia",
+      "Ultrassonografia",
+      "Tomografia Computadorizada",
+      "Ressonância Magnética",
+      "Medicina Nuclear"
+    ],
+    "Psiquiatria": [
+      "Transtornos de Humor",
+      "Esquizofrenia",
+      "Transtornos de Ansiedade",
+      "Psicofarmacologia",
+      "Dependência Química",
+      "Psiquiatria Infantil"
+    ]
+  },
+  "Enfermagem": {
+    "Enfermagem Clínica": [
+      "Cuidados com o Paciente",
+      "Administração de Medicamentos",
+      "Procedimentos de Enfermagem",
+      "Sinais Vitais",
+      "Segurança do Paciente",
+      "Curativos",
+      "Sondagens",
+      "Punções Venosas"
+    ],
+    "Saúde Pública": [
+      "Atenção Básica",
+      "Imunização",
+      "Epidemiologia",
+      "Programas de Saúde da Família",
+      "Campanhas de Saúde",
+      "Vigilância Epidemiológica",
+      "Educação em Saúde"
+    ],
+    "Enfermagem Obstétrica": [
+      "Pré-natal",
+      "Parto e Pós-parto",
+      "Aleitamento Materno",
+      "Cuidados ao Recém-nascido",
+      "Planejamento Familiar",
+      "Gestação de Alto Risco"
+    ],
+    "Enfermagem em UTI": [
+      "Suporte Avançado de Vida",
+      "Monitorização Intensiva",
+      "Cuidados com Paciente Crítico",
+      "Ventilação Mecânica",
+      "Controle de Infecções",
+      "Hemodinâmica"
+    ],
+    "Enfermagem Cirúrgica": [
+      "Centro Cirúrgico",
+      "Instrumentação Cirúrgica",
+      "Recuperação Pós-Anestésica",
+      "Cuidados Pré-operatórios",
+      "Central de Material Esterilizado"
+    ]
+  },
+  "Psicologia": {
+    "Psicologia Clínica": [
+      "Terapia Cognitivo-Comportamental",
+      "Psicanálise",
+      "Entrevista Clínica",
+      "Diagnóstico Psicológico",
+      "Psicopatologia",
+      "Terapia Gestalt",
+      "Terapia Sistêmica",
+      "Ludoterapia",
+      "Arteterapia",
+      "Psicoterapia Breve"
+    ],
+    "Psicologia Organizacional": [
+      "Clima Organizacional",
+      "Recrutamento e Seleção",
+      "Treinamento e Desenvolvimento",
+      "Avaliação de Desempenho",
+      "Qualidade de Vida no Trabalho",
+      "Gestão de Pessoas",
+      "Coaching",
+      "Liderança",
+      "Saúde Mental no Trabalho"
+    ],
+    "Neuropsicologia": [
+      "Funções Cognitivas",
+      "Avaliação Neuropsicológica",
+      "Reabilitação Cognitiva",
+      "Transtornos Neurológicos",
+      "Bases Neurobiológicas do Comportamento",
+      "Neuropsicologia do Desenvolvimento",
+      "Demências"
+    ],
+    "Psicologia Escolar": [
+      "Dificuldades de Aprendizagem",
+      "Orientação Educacional",
+      "Intervenções em Sala de Aula",
+      "Relação Família-Escola",
+      "Inclusão e Diversidade",
+      "Psicopedagogia",
+      "Bullying e Violência Escolar"
+    ],
+    "Psicologia Social": [
+      "Grupos e Dinâmicas",
+      "Psicologia Comunitária",
+      "Movimentos Sociais",
+      "Identidade Social",
+      "Preconceito e Discriminação"
+    ]
+  },
+  "Ciência da Computação": {
+    "Programação": [
+      "Algoritmos",
+      "Estruturas de Dados",
+      "Programação Orientada a Objetos",
+      "Padrões de Projeto",
+      "Boas Práticas de Código",
+      "Programação Funcional",
+      "Programação Concorrente",
+      "Análise de Complexidade"
+    ],
+    "Desenvolvimento Web": [
+      "Front-end (HTML, CSS, JS)",
+      "Back-end (APIs REST)",
+      "Desenvolvimento Full Stack",
+      "Autenticação e Autorização",
+      "Testes Automatizados",
+      "Frameworks JavaScript",
+      "Single Page Applications",
+      "Progressive Web Apps",
+      "WebSockets",
+      "GraphQL"
+    ],
+    "Desenvolvimento Mobile": [
+      "Android Nativo",
+      "iOS Nativo",
+      "React Native",
+      "Flutter",
+      "Xamarin",
+      "Design de Interfaces Mobile",
+      "Publicação em Lojas"
+    ],
+    "Redes de Computadores": [
+      "Protocolos de Comunicação",
+      "Segurança de Redes",
+      "Administração de Redes",
+      "Topologias e Modelos de Rede",
+      "Serviços de Infraestrutura",
+      "Redes sem Fio",
+      "IPv6",
+      "VPN"
+    ],
+    "Inteligência Artificial": [
+      "Machine Learning",
+      "Processamento de Linguagem Natural",
+      "Visão Computacional",
+      "Sistemas Especialistas",
+      "Aprendizado Profundo",
+      "Redes Neurais",
+      "Algoritmos Genéticos",
+      "IA Generativa"
+    ],
+    "Engenharia de Software": [
+      "Modelagem UML",
+      "Metodologias Ágeis",
+      "DevOps e CI/CD",
+      "Gestão de Configuração",
+      "Qualidade de Software",
+      "Arquitetura de Software",
+      "Requisitos de Software",
+      "Testes de Software"
+    ],
+    "Banco de Dados": [
+      "Modelagem de Dados",
+      "SQL",
+      "Banco de Dados NoSQL",
+      "Administração de BD",
+      "Data Warehousing",
+      "Big Data",
+      "Otimização de Consultas"
+    ],
+    "Segurança da Informação": [
+      "Criptografia",
+      "Ethical Hacking",
+      "Testes de Invasão",
+      "Segurança de Aplicações",
+      "Forense Digital",
+      "Gestão de Riscos",
+      "Normas ISO 27001"
+    ]
+  },
+  "Sistemas de Informação": {
+    "Gestão de TI": [
+      "Governança de TI",
+      "Gestão de Projetos",
+      "Gestão de Serviços (ITIL)",
+      "Alinhamento Estratégico de TI",
+      "Indicadores e SLA",
+      "COBIT",
+      "PMI/PMBOK",
+      "Gestão de Mudanças"
+    ],
+    "Banco de Dados": [
+      "Modelagem de Dados",
+      "SQL e Otimização de Consultas",
+      "Banco de Dados NoSQL",
+      "Administração de Banco de Dados",
+      "Segurança em Banco de Dados",
+      "Data Mining",
+      "Banco de Dados Distribuídos"
+    ],
+    "Business Intelligence": [
+      "Modelagem Dimensional",
+      "ETL e Data Warehousing",
+      "Dashboards e Visualização",
+      "Indicadores de Negócio",
+      "Data Analytics",
+      "Power BI",
+      "Tableau",
+      "Análise Preditiva"
+    ],
+    "Sistemas Empresariais": [
+      "ERP - Enterprise Resource Planning",
+      "CRM - Customer Relationship Management",
+      "SCM - Supply Chain Management",
+      "Integração de Sistemas",
+      "Processos de Negócio"
+    ]
+  },
+  "Pedagogia": {
+    "Didática": [
+      "Planejamento de Aula",
+      "Avaliação Escolar",
+      "Metodologias Ativas",
+      "Gestão de Sala de Aula",
+      "Recursos Didáticos",
+      "Projetos de Ensino",
+      "Sequências Didáticas",
+      "Interdisciplinaridade"
+    ],
+    "Psicologia da Educação": [
+      "Desenvolvimento Infantil",
+      "Teorias da Aprendizagem",
+      "Inclusão Escolar",
+      "Motivação na Aprendizagem",
+      "Transtornos de Aprendizagem",
+      "Piaget e Vygotsky",
+      "Neurociência da Aprendizagem"
+    ],
+    "Gestão Escolar": [
+      "Coordenação Pedagógica",
+      "Políticas Educacionais",
+      "Administração Escolar",
+      "Projetos Institucionais",
+      "Clima Escolar",
+      "Liderança Educacional",
+      "Planejamento Institucional"
+    ],
+    "Educação Inclusiva": [
+      "Educação Especial",
+      "Adaptações Curriculares",
+      "Acessibilidade",
+      "Formação de Professores",
+      "Legislação Educacional",
+      "AEE - Atendimento Educacional Especializado",
+      "Libras"
+    ],
+    "Alfabetização e Letramento": [
+      "Métodos de Alfabetização",
+      "Consciência Fonológica",
+      "Leitura e Escrita",
+      "Literatura Infantil",
+      "Produção Textual"
+    ],
+    "Tecnologias Educacionais": [
+      "Recursos Digitais",
+      "Plataformas de Ensino",
+      "Gamificação",
+      "EaD - Educação a Distância",
+      "Objetos de Aprendizagem"
+    ]
+  },
+  "Arquitetura e Urbanismo": {
+    "Projeto Arquitetônico": [
+      "Desenho Técnico",
+      "Maquetes",
+      "Softwares de Modelagem",
+      "Conforto Ambiental",
+      "Detalhamento de Projetos",
+      "AutoCAD",
+      "SketchUp",
+      "Revit",
+      "Lumion",
+      "Projeto Residencial",
+      "Projeto Comercial"
+    ],
+    "Urbanismo": [
+      "Planejamento Urbano",
+      "Sustentabilidade Urbana",
+      "Mobilidade Urbana",
+      "Legislação Urbanística",
+      "Desenvolvimento Regional",
+      "Plano Diretor",
+      "Desenho Urbano",
+      "Infraestrutura Urbana"
+    ],
+    "História da Arquitetura": [
+      "Arquitetura Moderna",
+      "Arquitetura Contemporânea",
+      "Patrimônio Histórico",
+      "Arquitetura Clássica",
+      "Arquitetura Vernacular",
+      "Arquitetura Brasileira",
+      "Restauro e Preservação"
+    ],
+    "Paisagismo": [
+      "Projeto de Áreas Verdes",
+      "Vegetação e Clima",
+      "Espaços Públicos",
+      "Sustentabilidade no Paisagismo",
+      "Percepção Ambiental",
+      "Jardins",
+      "Arborização Urbana"
+    ],
+    "Tecnologia da Construção": [
+      "Sistemas Construtivos",
+      "Materiais de Construção",
+      "Estruturas na Arquitetura",
+      "Instalações Prediais",
+      "Orçamento de Obras",
+      "BIM - Building Information Modeling"
+    ]
+  },
+  "Educação Física": {
+    "Fisiologia do Exercício": [
+      "Sistema Cardiovascular",
+      "Adaptações Musculares",
+      "Avaliação Física",
+      "Metabolismo Energético",
+      "Respostas ao Treinamento",
+      "Fadiga Muscular",
+      "Suplementação Esportiva"
+    ],
+    "Treinamento Esportivo": [
+      "Planejamento de Treino",
+      "Periodização",
+      "Esportes Coletivos",
+      "Esportes Individuais",
+      "Preparação Física",
+      "Treinamento de Força",
+      "Treinamento Aeróbico",
+      "Alto Rendimento"
+    ],
+    "Biomecânica": [
+      "Análise do Movimento",
+      "Lesões Esportivas",
+      "Prevenção de Lesões",
+      "Cinemática e Cinética",
+      "Ergonomia",
+      "Avaliação Postural"
+    ],
+    "Atividade Física e Saúde": [
+      "Promoção da Saúde",
+      "Obesidade e Sedentarismo",
+      "Exercício em Doenças Crônicas",
+      "Programas de Atividade Física",
+      "Qualidade de Vida",
+      "Atividade Física para Idosos",
+      "Personal Training"
+    ],
+    "Educação Física Escolar": [
+      "Metodologias de Ensino",
+      "Jogos e Brincadeiras",
+      "Desenvolvimento Motor",
+      "Esporte na Escola",
+      "Inclusão nas Aulas"
+    ],
+    "Gestão Esportiva": [
+      "Marketing Esportivo",
+      "Eventos Esportivos",
+      "Administração Esportiva",
+      "Projetos Esportivos",
+      "Legislação Esportiva"
+    ]
+  },
+  "Engenharia de Software": {
+    "Fundamentos de Engenharia de Software": [
+      "Ciclo de Vida de Software",
+      "Requisitos de Software",
+      "Arquitetura de Software",
+      "Modelagem e Documentação",
+      "Manutenção de Software",
+      "Processos de Software"
+    ],
+    "Arquitetura e Design": [
+      "Arquitetura em Camadas",
+      "Microserviços",
+      "Padrões de Arquitetura",
+      "Domain-Driven Design",
+      "Clean Architecture",
+      "Arquitetura Hexagonal",
+      "Event-Driven Architecture",
+      "CQRS"
+    ],
+    "Qualidade e Testes": [
+      "Testes Unitários",
+      "Testes de Integração",
+      "Testes de Aceitação",
+      "Automação de Testes",
+      "Métricas de Qualidade",
+      "TDD - Test Driven Development",
+      "BDD - Behavior Driven Development",
+      "Testes de Performance"
+    ],
+    "Processos e Métodos Ágeis": [
+      "Scrum",
+      "Kanban",
+      "Lean Software Development",
+      "Gestão de Backlog",
+      "Papéis e Cerimônias Ágeis",
+      "XP - Extreme Programming",
+      "SAFe"
+    ],
+    "DevOps": [
+      "CI/CD - Integração e Entrega Contínua",
+      "Containerização (Docker)",
+      "Orquestração (Kubernetes)",
+      "Infrastructure as Code",
+      "Monitoramento e Observabilidade",
+      "Cloud Computing"
+    ]
+  },
+  "Design Gráfico": {
+    "Fundamentos de Design": [
+      "Teoria das Cores",
+      "Tipografia",
+      "Composição Visual",
+      "Gestalt no Design",
+      "Design de Identidade Visual",
+      "Grid e Layout",
+      "Harmonia Cromática"
+    ],
+    "Ferramentas Digitais": [
+      "Edição de Imagem (Photoshop)",
+      "Ilustração Vetorial (Illustrator)",
+      "Diagramação (InDesign)",
+      "Prototipagem de Interfaces (Figma)",
+      "Mockups e Apresentações",
+      "After Effects",
+      "Corel Draw"
+    ],
+    "Branding e Comunicação": [
+      "Gestão de Marca",
+      "Design para Mídias Sociais",
+      "Design Publicitário",
+      "Campanhas Visuais",
+      "Storytelling Visual",
+      "Identidade Corporativa",
+      "Manual de Marca"
+    ],
+    "Design Digital": [
+      "UI Design",
+      "UX Design",
+      "Design Responsivo",
+      "Prototipagem",
+      "Wireframes",
+      "Testes de Usabilidade",
+      "Design Systems"
+    ],
+    "Design Editorial": [
+      "Projeto Gráfico de Livros",
+      "Revistas e Periódicos",
+      "Diagramação Editorial",
+      "Tipografia Editorial"
+    ]
+  },
+  "Engenharia de Produção": {
+    "Gestão da Produção": [
+      "Planejamento e Controle da Produção",
+      "Layout de Fábrica",
+      "Fluxo de Processos",
+      "Capacidade Produtiva",
+      "Indicadores Industriais",
+      "Just in Time",
+      "Produção Enxuta (Lean)"
+    ],
+    "Qualidade": [
+      "Ferramentas da Qualidade",
+      "Controle Estatístico de Processo",
+      "Normas ISO",
+      "Melhoria Contínua",
+      "Seis Sigma",
+      "PDCA",
+      "5S",
+      "Kaizen"
+    ],
+    "Logística e Cadeia de Suprimentos": [
+      "Gestão de Estoques",
+      "Distribuição Física",
+      "Transporte e Armazenagem",
+      "Supply Chain Management",
+      "Logística Reversa",
+      "MRP e ERP",
+      "Curva ABC"
+    ],
+    "Engenharia de Métodos": [
+      "Estudo de Tempos",
+      "Estudo de Movimentos",
+      "Ergonomia Industrial",
+      "Cronoanálise",
+      "Balanceamento de Linhas"
+    ],
+    "Gestão de Projetos": [
+      "Planejamento de Projetos",
+      "Gerenciamento de Custos",
+      "Gerenciamento de Riscos",
+      "PMI/PMBOK",
+      "MS Project",
+      "Metodologias Ágeis em Projetos"
+    ],
+    "Engenharia Econômica": [
+      "Análise de Investimentos",
+      "Viabilidade Econômica",
+      "Custos Industriais",
+      "Depreciação",
+      "Fluxo de Caixa"
+    ]
+  },
+  "Nutrição": {
+    "Nutrição Clínica": [
+      "Avaliação Nutricional",
+      "Dietoterapia",
+      "Doenças Crônicas e Alimentação",
+      "Suplementação",
+      "Atendimento Ambulatorial",
+      "Nutrição Hospitalar",
+      "Terapia Nutricional Enteral e Parenteral"
+    ],
+    "Nutrição Esportiva": [
+      "Planejamento Alimentar para Atletas",
+      "Suplementos Esportivos",
+      "Hidratação",
+      "Composição Corporal",
+      "Performance Esportiva",
+      "Nutrição em Diferentes Modalidades"
+    ],
+    "Saúde Coletiva em Nutrição": [
+      "Programas Alimentares",
+      "Políticas Públicas de Alimentação",
+      "Segurança Alimentar",
+      "Educação Nutricional",
+      "Vigilância Alimentar e Nutricional",
+      "Programas Governamentais"
+    ],
+    "Bioquímica da Nutrição": [
+      "Metabolismo de Macronutrientes",
+      "Metabolismo de Micronutrientes",
+      "Biodisponibilidade",
+      "Digestão e Absorção"
+    ],
+    "Tecnologia de Alimentos": [
+      "Processamento de Alimentos",
+      "Conservação de Alimentos",
+      "Análise Sensorial",
+      "Rotulagem Nutricional",
+      "Controle de Qualidade"
+    ]
+  },
+  "Farmácia": {
+    "Farmacologia": [
+      "Farmacodinâmica",
+      "Farmacocinética",
+      "Interações Medicamentosas",
+      "Farmacologia Clínica",
+      "Toxicologia"
+    ],
+    "Farmácia Clínica": [
+      "Atenção Farmacêutica",
+      "Cuidado Farmacêutico",
+      "Farmacoterapia",
+      "Acompanhamento Farmacoterapêutico",
+      "Conciliação Medicamentosa"
+    ],
+    "Farmacotécnica": [
+      "Manipulação Magistral",
+      "Formas Farmacêuticas",
+      "Controle de Qualidade",
+      "Boas Práticas de Manipulação",
+      "Cálculos Farmacêuticos"
+    ],
+    "Farmácia Hospitalar": [
+      "Gestão de Medicamentos Hospitalares",
+      "Farmácia Clínica Hospitalar",
+      "Centro de Informação de Medicamentos",
+      "Farmacovigilância"
+    ],
+    "Análises Clínicas": [
+      "Hematologia Clínica",
+      "Bioquímica Clínica",
+      "Microbiologia Clínica",
+      "Imunologia Clínica",
+      "Parasitologia Clínica"
+    ]
+  },
+  "Odontologia": {
+    "Clínica Odontológica": [
+      "Dentística",
+      "Endodontia",
+      "Periodontia",
+      "Prótese Dentária",
+      "Cirurgia Oral",
+      "Implantodontia"
+    ],
+    "Ortodontia": [
+      "Aparelhos Ortodônticos",
+      "Ortopedia Funcional",
+      "Diagnóstico Ortodôntico",
+      "Tratamentos Interceptivos",
+      "Alinhadores Invisíveis"
+    ],
+    "Odontopediatria": [
+      "Odontologia para Bebês",
+      "Prevenção em Odontopediatria",
+      "Traumatismos Dentários",
+      "Manejo Comportamental"
+    ],
+    "Saúde Bucal Coletiva": [
+      "Epidemiologia em Odontologia",
+      "Políticas de Saúde Bucal",
+      "Promoção de Saúde Bucal",
+      "Educação em Saúde Bucal"
+    ],
+    "Radiologia Odontológica": [
+      "Técnicas Radiográficas",
+      "Interpretação Radiográfica",
+      "Tomografia Computadorizada",
+      "Proteção Radiológica"
+    ]
+  },
+  "Fisioterapia": {
+    "Fisioterapia Traumato-Ortopédica": [
+      "Lesões Musculoesqueléticas",
+      "Reabilitação Pós-Cirúrgica",
+      "Fraturas",
+      "Entorses e Luxações",
+      "Patologias da Coluna"
+    ],
+    "Fisioterapia Neurológica": [
+      "AVC - Acidente Vascular Cerebral",
+      "Lesão Medular",
+      "Parkinson",
+      "Paralisia Cerebral",
+      "Esclerose Múltipla"
+    ],
+    "Fisioterapia Respiratória": [
+      "Reabilitação Pulmonar",
+      "Ventilação Mecânica",
+      "Fisioterapia em UTI",
+      "Doenças Respiratórias Crônicas"
+    ],
+    "Fisioterapia Esportiva": [
+      "Lesões Esportivas",
+      "Prevenção de Lesões",
+      "Performance Atlética",
+      "Retorno ao Esporte"
+    ],
+    "Recursos Terapêuticos": [
+      "Eletroterapia",
+      "Termoterapia",
+      "Hidroterapia",
+      "Cinesioterapia",
+      "Terapia Manual"
+    ]
+  },
+  "Jornalismo": {
+    "Jornalismo Impresso": [
+      "Redação Jornalística",
+      "Reportagem",
+      "Edição de Texto",
+      "Diagramação",
+      "Fotojornalismo"
+    ],
+    "Jornalismo Digital": [
+      "Produção de Conteúdo Online",
+      "SEO para Jornalismo",
+      "Redes Sociais",
+      "Multimídia",
+      "Blogs e Portais"
+    ],
+    "Radiojornalismo": [
+      "Locução",
+      "Edição de Áudio",
+      "Produção para Rádio",
+      "Podcasting"
+    ],
+    "Telejornalismo": [
+      "Produção de TV",
+      "Reportagem em Vídeo",
+      "Edição de Vídeo",
+      "Apresentação"
+    ],
+    "Assessoria de Imprensa": [
+      "Comunicação Institucional",
+      "Media Training",
+      "Release",
+      "Gestão de Crise"
+    ]
+  },
+  "Publicidade e Propaganda": {
+    "Criação Publicitária": [
+      "Redação Publicitária",
+      "Direção de Arte",
+      "Brainstorming",
+      "Conceitos Criativos",
+      "Campanhas Integradas"
+    ],
+    "Planejamento": [
+      "Briefing",
+      "Pesquisa de Mercado",
+      "Planejamento de Mídia",
+      "Estratégia de Comunicação",
+      "Análise de Público"
+    ],
+    "Mídia": [
+      "Mídia Online",
+      "Mídia Offline",
+      "Métricas e Performance",
+      "Compra de Mídia",
+      "Programática"
+    ],
+    "Produção Publicitária": [
+      "Produção Gráfica",
+      "Produção Audiovisual",
+      "Produção Digital",
+      "Finalização"
+    ]
+  },
+  "Relações Internacionais": {
+    "Política Internacional": [
+      "Teoria das Relações Internacionais",
+      "Geopolítica",
+      "Organizações Internacionais",
+      "Direito Internacional",
+      "Diplomacia"
+    ],
+    "Economia Internacional": [
+      "Comércio Exterior",
+      "Blocos Econômicos",
+      "Instituições Financeiras Internacionais",
+      "Desenvolvimento Econômico",
+      "Finanças Internacionais"
+    ],
+    "Negociações Internacionais": [
+      "Técnicas de Negociação",
+      "Contratos Internacionais",
+      "Resolução de Conflitos",
+      "Cultura e Negócios"
+    ],
+    "História e Cultura": [
+      "História das Relações Internacionais",
+      "Estudos Regionais",
+      "Multiculturalismo",
+      "Idiomas Estrangeiros"
+    ]
+  },
+  "Ciências Contábeis": {
+    "Contabilidade Geral": [
+      "Escrituração Contábil",
+      "Balanço Patrimonial",
+      "DRE - Demonstração do Resultado",
+      "Princípios Contábeis",
+      "Normas Contábeis"
+    ],
+    "Contabilidade de Custos": [
+      "Custos Diretos e Indiretos",
+      "Custeio ABC",
+      "Ponto de Equilíbrio",
+      "Margem de Contribuição",
+      "Análise de Custos"
+    ],
+    "Contabilidade Tributária": [
+      "Tributos Federais",
+      "Tributos Estaduais",
+      "Tributos Municipais",
+      "Planejamento Tributário",
+      "Simples Nacional",
+      "Lucro Real e Presumido"
+    ],
+    "Auditoria": [
+      "Auditoria Interna",
+      "Auditoria Externa",
+      "Normas de Auditoria",
+      "Papéis de Trabalho",
+      "Parecer do Auditor"
+    ],
+    "Perícia Contábil": [
+      "Laudos Periciais",
+      "Perícia Judicial",
+      "Perícia Extrajudicial",
+      "Avaliação de Empresas"
+    ]
+  },
+  "Ciências Econômicas": {
+    "Microeconomia": [
+      "Teoria do Consumidor",
+      "Teoria da Firma",
+      "Estruturas de Mercado",
+      "Equilíbrio de Mercado",
+      "Elasticidade"
+    ],
+    "Macroeconomia": [
+      "Agregados Macroeconômicos",
+      "Política Monetária",
+      "Política Fiscal",
+      "Inflação",
+      "Desemprego",
+      "Crescimento Econômico"
+    ],
+    "Economia Brasileira": [
+      "História Econômica do Brasil",
+      "Desenvolvimento Econômico",
+      "Políticas Econômicas",
+      "Setores da Economia"
+    ],
+    "Econometria": [
+      "Modelos Econométricos",
+      "Regressão Linear",
+      "Séries Temporais",
+      "Análise de Dados Econômicos"
+    ]
+  },
+  "Veterinária": {
+    "Clínica de Pequenos Animais": [
+      "Clínica Médica de Cães e Gatos",
+      "Cirurgia de Pequenos Animais",
+      "Dermatologia Veterinária",
+      "Oftalmologia Veterinária",
+      "Cardiologia Veterinária"
+    ],
+    "Clínica de Grandes Animais": [
+      "Bovinos",
+      "Equinos",
+      "Suínos",
+      "Ovinos e Caprinos",
+      "Reprodução Animal"
+    ],
+    "Saúde Pública Veterinária": [
+      "Zoonoses",
+      "Vigilância Sanitária",
+      "Inspeção de Alimentos",
+      "Epidemiologia Veterinária"
+    ],
+    "Diagnóstico por Imagem": [
+      "Radiologia Veterinária",
+      "Ultrassonografia Veterinária",
+      "Tomografia e Ressonância"
+    ]
+  },
+  "Agronomia": {
+    "Produção Vegetal": [
+      "Fitotecnia",
+      "Culturas Anuais",
+      "Culturas Perenes",
+      "Fruticultura",
+      "Olericultura",
+      "Silvicultura"
+    ],
+    "Solos e Nutrição": [
+      "Fertilidade do Solo",
+      "Manejo e Conservação do Solo",
+      "Nutrição de Plantas",
+      "Adubação"
+    ],
+    "Proteção de Plantas": [
+      "Entomologia Agrícola",
+      "Fitopatologia",
+      "Controle de Plantas Daninhas",
+      "Manejo Integrado de Pragas"
+    ],
+    "Mecanização Agrícola": [
+      "Máquinas e Implementos",
+      "Operações Mecanizadas",
+      "Agricultura de Precisão"
+    ],
+    "Irrigação e Drenagem": [
+      "Sistemas de Irrigação",
+      "Manejo da Irrigação",
+      "Drenagem Agrícola"
+    ]
+  },
+  "Biotecnologia": {
+    "Biologia Molecular": [
+      "DNA e RNA",
+      "PCR",
+      "Sequenciamento",
+      "Clonagem Molecular",
+      "Engenharia Genética"
+    ],
+    "Biotecnologia Industrial": [
+      "Fermentação",
+      "Bioprocessos",
+      "Enzimologia Industrial",
+      "Biorreatores"
+    ],
+    "Biotecnologia Agrícola": [
+      "Plantas Transgênicas",
+      "Melhoramento Genético",
+      "Biofertilizantes",
+      "Controle Biológico"
+    ],
+    "Biotecnologia Médica": [
+      "Terapia Gênica",
+      "Produção de Fármacos",
+      "Diagnóstico Molecular",
+      "Medicina Personalizada"
+    ]
+  },
+  "Gastronomia": {
+    "Cozinha Clássica": [
+      "Técnicas Culinárias",
+      "Cortes e Preparos",
+      "Molhos Clássicos",
+      "Fundos e Caldos"
+    ],
+    "Confeitaria": [
+      "Confeitaria Básica",
+      "Confeitaria Avançada",
+      "Panificação",
+      "Chocolateria"
+    ],
+    "Cozinha Internacional": [
+      "Cozinha Francesa",
+      "Cozinha Italiana",
+      "Cozinha Asiática",
+      "Cozinha Contemporânea"
+    ],
+    "Gestão em Gastronomia": [
+      "Gestão de Restaurantes",
+      "Controle de Custos",
+      "Planejamento de Cardápios",
+      "Segurança Alimentar"
+    ],
+    "Enologia": [
+      "Vinicultura",
+      "Degustação de Vinhos",
+      "Harmonização",
+      "Serviço de Vinhos"
+    ]
+  },
+  "Hotelaria e Turismo": {
+    "Gestão Hoteleira": [
+      "Front Office",
+      "Governança",
+      "Alimentos e Bebidas",
+      "Revenue Management",
+      "Hotelaria de Luxo"
+    ],
+    "Turismo": [
+      "Agenciamento de Viagens",
+      "Operação de Turismo",
+      "Turismo de Eventos",
+      "Ecoturismo",
+      "Turismo Cultural"
+    ],
+    "Eventos": [
+      "Planejamento de Eventos",
+      "Logística de Eventos",
+      "Cerimonial e Protocolo",
+      "Eventos Corporativos"
+    ],
+    "Lazer e Entretenimento": [
+      "Recreação",
+      "Animação Turística",
+      "Parques Temáticos",
+      "Cruzeiros Marítimos"
+    ]
+  },
+  "Design de Interiores": {
+    "Projeto de Interiores": [
+      "Conceituação de Projetos",
+      "Ambientação",
+      "Ergonomia de Interiores",
+      "Desenho Técnico",
+      "Maquetes e Perspectivas"
+    ],
+    "Materiais e Acabamentos": [
+      "Revestimentos",
+      "Pisos",
+      "Iluminação",
+      "Cores e Texturas",
+      "Mobiliário"
+    ],
+    "Projetos Específicos": [
+      "Interiores Residenciais",
+      "Interiores Comerciais",
+      "Interiores Corporativos",
+      "Cenografia"
+    ],
+    "Tecnologias": [
+      "AutoCAD para Interiores",
+      "SketchUp",
+      "Renderização 3D",
+      "Realidade Virtual"
+    ]
+  },
+  "Música": {
+    "Teoria Musical": [
+      "Solfejo",
+      "Harmonia",
+      "Contraponto",
+      "Análise Musical",
+      "Percepção Musical"
+    ],
+    "Instrumento": [
+      "Piano",
+      "Violão",
+      "Guitarra",
+      "Bateria",
+      "Instrumentos de Orquestra"
+    ],
+    "Produção Musical": [
+      "Gravação",
+      "Mixagem",
+      "Masterização",
+      "Produção em Estúdio",
+      "Home Studio"
+    ],
+    "Regência e Arranjo": [
+      "Regência Coral",
+      "Regência Orquestral",
+      "Arranjo Musical",
+      "Orquestração"
+    ]
+  },
+  "Cinema e Audiovisual": {
+    "Direção": [
+      "Direção Cinematográfica",
+      "Direção de Atores",
+      "Linguagem Cinematográfica",
+      "Storytelling Audiovisual"
+    ],
+    "Produção": [
+      "Produção Executiva",
+      "Produção de Campo",
+      "Orçamento e Viabilização",
+      "Produção para TV"
+    ],
+    "Roteiro": [
+      "Roteiro para Cinema",
+      "Roteiro para TV",
+      "Roteiro para Séries",
+      "Estrutura Narrativa"
+    ],
+    "Fotografia e Iluminação": [
+      "Direção de Fotografia",
+      "Câmera e Lentes",
+      "Iluminação para Cinema",
+      "Color Grading"
+    ],
+    "Edição e Finalização": [
+      "Montagem",
+      "Edição de Vídeo",
+      "Pós-produção",
+      "Efeitos Visuais",
+      "Som para Audiovisual"
+    ]
+  },
+  "Filosofia": {
+    "História da Filosofia": [
+      "Filosofia Antiga",
+      "Filosofia Medieval",
+      "Filosofia Moderna",
+      "Filosofia Contemporânea"
+    ],
+    "Áreas da Filosofia": [
+      "Metafísica",
+      "Epistemologia",
+      "Ética",
+      "Filosofia Política",
+      "Estética",
+      "Lógica"
+    ],
+    "Filosofia Aplicada": [
+      "Filosofia da Ciência",
+      "Filosofia da Mente",
+      "Filosofia da Linguagem",
+      "Bioética"
+    ]
+  },
+  "Sociologia": {
+    "Teoria Sociológica": [
+      "Clássicos da Sociologia",
+      "Teorias Contemporâneas",
+      "Métodos Quantitativos",
+      "Métodos Qualitativos"
+    ],
+    "Sociologia Aplicada": [
+      "Sociologia Urbana",
+      "Sociologia Rural",
+      "Sociologia do Trabalho",
+      "Sociologia da Educação",
+      "Sociologia da Saúde"
+    ],
+    "Questões Sociais": [
+      "Desigualdade Social",
+      "Movimentos Sociais",
+      "Gênero e Sexualidade",
+      "Raça e Etnia",
+      "Violência e Criminalidade"
+    ]
+  },
+  "História": {
+    "História Antiga e Medieval": [
+      "Civilizações Antigas",
+      "Grécia e Roma",
+      "Idade Média",
+      "Feudalismo"
+    ],
+    "História Moderna e Contemporânea": [
+      "Renascimento",
+      "Iluminismo",
+      "Revoluções",
+      "Guerras Mundiais",
+      "Guerra Fria"
+    ],
+    "História do Brasil": [
+      "Brasil Colônia",
+      "Brasil Império",
+      "Brasil República",
+      "Ditadura Militar",
+      "Nova República"
+    ],
+    "Metodologia da História": [
+      "Historiografia",
+      "Fontes Históricas",
+      "Pesquisa em História",
+      "Ensino de História"
+    ]
+  },
+  "Geografia": {
+    "Geografia Física": [
+      "Geomorfologia",
+      "Climatologia",
+      "Hidrografia",
+      "Biogeografia",
+      "Pedologia"
+    ],
+    "Geografia Humana": [
+      "Geografia Urbana",
+      "Geografia Agrária",
+      "Geografia da População",
+      "Geografia Econômica",
+      "Geografia Cultural"
+    ],
+    "Geotecnologias": [
+      "Cartografia",
+      "Geoprocessamento",
+      "Sensoriamento Remoto",
+      "SIG - Sistema de Informação Geográfica"
+    ],
+    "Geografia do Brasil": [
+      "Regionalização do Brasil",
+      "Questões Ambientais",
+      "Urbanização",
+      "Aspectos Socioeconômicos"
+    ]
+  },
+  "Letras": {
+    "Língua Portuguesa": [
+      "Gramática",
+      "Fonética e Fonologia",
+      "Morfologia",
+      "Sintaxe",
+      "Semântica",
+      "Linguística"
+    ],
+    "Literatura": [
+      "Literatura Brasileira",
+      "Literatura Portuguesa",
+      "Teoria Literária",
+      "Literatura Comparada",
+      "Crítica Literária"
+    ],
+    "Línguas Estrangeiras": [
+      "Inglês",
+      "Espanhol",
+      "Francês",
+      "Italiano",
+      "Alemão"
+    ],
+    "Produção Textual": [
+      "Redação",
+      "Produção de Textos Acadêmicos",
+      "Revisão de Textos",
+      "Tradução"
+    ]
+  },
+  "Matemática": {
+    "Álgebra": [
+      "Álgebra Linear",
+      "Álgebra Abstrata",
+      "Teoria dos Números",
+      "Equações Algébricas"
+    ],
+    "Cálculo": [
+      "Cálculo Diferencial",
+      "Cálculo Integral",
+      "Cálculo Vetorial",
+      "Equações Diferenciais"
+    ],
+    "Geometria": [
+      "Geometria Euclidiana",
+      "Geometria Analítica",
+      "Geometria Diferencial",
+      "Topologia"
+    ],
+    "Matemática Aplicada": [
+      "Estatística",
+      "Probabilidade",
+      "Pesquisa Operacional",
+      "Modelagem Matemática"
+    ]
+  },
+  "Física": {
+    "Física Clássica": [
+      "Mecânica",
+      "Termodinâmica",
+      "Eletromagnetismo",
+      "Ondas e Óptica"
+    ],
+    "Física Moderna": [
+      "Mecânica Quântica",
+      "Relatividade",
+      "Física de Partículas",
+      "Física Nuclear"
+    ],
+    "Física Aplicada": [
+      "Física Experimental",
+      "Instrumentação",
+      "Física Computacional",
+      "Materiais"
+    ]
+  },
+  "Química": {
+    "Química Geral": [
+      "Estrutura Atômica",
+      "Ligações Químicas",
+      "Estequiometria",
+      "Soluções",
+      "Termoquímica"
+    ],
+    "Química Orgânica": [
+      "Hidrocarbonetos",
+      "Funções Orgânicas",
+      "Reações Orgânicas",
+      "Isomeria",
+      "Polímeros"
+    ],
+    "Química Inorgânica": [
+      "Tabela Periódica",
+      "Compostos Inorgânicos",
+      "Química de Coordenação",
+      "Química dos Elementos"
+    ],
+    "Química Analítica": [
+      "Análise Qualitativa",
+      "Análise Quantitativa",
+      "Espectroscopia",
+      "Cromatografia"
+    ],
+    "Físico-Química": [
+      "Termodinâmica Química",
+      "Cinética Química",
+      "Eletroquímica",
+      "Equilíbrio Químico"
+    ]
+  },
+  "Biologia": {
+    "Biologia Celular e Molecular": [
+      "Citologia",
+      "Bioquímica",
+      "Genética",
+      "Biologia Molecular",
+      "Biotecnologia"
+    ],
+    "Zoologia": [
+      "Invertebrados",
+      "Vertebrados",
+      "Anatomia Animal",
+      "Fisiologia Animal"
+    ],
+    "Botânica": [
+      "Morfologia Vegetal",
+      "Fisiologia Vegetal",
+      "Taxonomia Vegetal",
+      "Ecologia Vegetal"
+    ],
+    "Ecologia": [
+      "Ecossistemas",
+      "Biodiversidade",
+      "Conservação",
+      "Ecologia de Populações",
+      "Impactos Ambientais"
+    ],
+    "Microbiologia": [
+      "Bacteriologia",
+      "Virologia",
+      "Micologia",
+      "Parasitologia"
+    ]
+  },
+  "Engenharia Elétrica": {
+    "Circuitos Elétricos": [
+      "Análise de Circuitos",
+      "Circuitos CA e CC",
+      "Eletrônica Analógica",
+      "Eletrônica Digital",
+      "Semicondutores"
+    ],
+    "Sistemas de Potência": [
+      "Geração de Energia",
+      "Transmissão de Energia",
+      "Distribuição de Energia",
+      "Qualidade de Energia",
+      "Proteção de Sistemas"
+    ],
+    "Máquinas Elétricas": [
+      "Transformadores",
+      "Motores Elétricos",
+      "Geradores",
+      "Acionamentos Elétricos"
+    ],
+    "Controle e Automação": [
+      "Sistemas de Controle",
+      "Controladores Lógicos Programáveis",
+      "Automação Industrial",
+      "Robótica"
+    ],
+    "Telecomunicações": [
+      "Sistemas de Comunicação",
+      "Redes de Telecomunicações",
+      "Fibra Óptica",
+      "Telefonia"
+    ]
+  },
+  "Engenharia Mecânica": {
+    "Mecânica dos Sólidos": [
+      "Estática",
+      "Dinâmica",
+      "Resistência dos Materiais",
+      "Mecânica dos Fluidos"
+    ],
+    "Termodinâmica": [
+      "Leis da Termodinâmica",
+      "Máquinas Térmicas",
+      "Refrigeração",
+      "Transferência de Calor"
+    ],
+    "Projetos Mecânicos": [
+      "Elementos de Máquinas",
+      "CAD/CAM",
+      "Análise por Elementos Finitos",
+      "Projeto de Sistemas Mecânicos"
+    ],
+    "Processos de Fabricação": [
+      "Usinagem",
+      "Conformação",
+      "Soldagem",
+      "Fundição"
+    ],
+    "Manutenção": [
+      "Manutenção Preventiva",
+      "Manutenção Preditiva",
+      "Confiabilidade",
+      "Gestão de Ativos"
+    ]
+  },
+  "Engenharia Química": {
+    "Operações Unitárias": [
+      "Transferência de Calor",
+      "Transferência de Massa",
+      "Operações de Separação",
+      "Reatores Químicos"
+    ],
+    "Processos Químicos": [
+      "Processos Industriais",
+      "Catálise",
+      "Cinética Química Industrial",
+      "Controle de Processos"
+    ],
+    "Engenharia Ambiental": [
+      "Tratamento de Efluentes",
+      "Tratamento de Resíduos",
+      "Controle de Poluição",
+      "Química Ambiental"
+    ],
+    "Petróleo e Gás": [
+      "Refino de Petróleo",
+      "Petroquímica",
+      "Gás Natural",
+      "Biocombustíveis"
+    ]
+  },
+  "Serviço Social": {
+    "Fundamentos do Serviço Social": [
+      "História do Serviço Social",
+      "Ética Profissional",
+      "Políticas Sociais",
+      "Direitos Sociais"
+    ],
+    "Áreas de Atuação": [
+      "Assistência Social",
+      "Saúde",
+      "Educação",
+      "Judiciário",
+      "Empresarial"
+    ],
+    "Metodologias": [
+      "Pesquisa Social",
+      "Planejamento Social",
+      "Gestão de Programas Sociais",
+      "Avaliação de Políticas"
+    ],
+    "Questões Sociais": [
+      "Pobreza e Desigualdade",
+      "Violência",
+      "Família",
+      "Criança e Adolescente",
+      "Idoso",
+      "Pessoas com Deficiência"
+    ]
+  },
+  "Marketing Digital": {
+    "SEO e Tráfego": [
+      "Otimização On-Page",
+      "Link Building",
+      "Análise de Palavras-Chave",
+      "SEO Técnico",
+      "Core Web Vitals",
+      "Google Search Console",
+      "Rank Tracking",
+      "Local SEO",
+      "Technical Audit",
+      "Schema Markup",
+      "Mobile-First Indexing"
+    ],
+    "Tráfego Pago": [
+      "Google Ads",
+      "Meta Ads (Facebook/Instagram)",
+      "TikTok Ads",
+      "Google Shopping",
+      "Remarketing",
+      "Campanhas de Conversão",
+      "ROAS Optimization",
+      "A/B Testing Ads",
+      "Smart Bidding",
+      "Performance Max",
+      "YouTube Ads",
+      "Discovery Ads"
+    ],
+    "Conteúdo e Copy": [
+      "Copywriting Persuasivo",
+      "Funil de Vendas",
+      "Storytelling Digital",
+      "Email Marketing Automation",
+      "Conteúdo Evergreen",
+      "Lead Magnet",
+      "Webinários",
+      "Lives Estratégicas",
+      "Case Studies",
+      "Social Proof",
+      "Urgency & Scarcity",
+      "Framework AIDA"
+    ],
+    "Social Media": [
+      "Estratégia Orgânica Instagram",
+      "Reels e Vídeos Virais",
+      "Comunidade no WhatsApp",
+      "Telegram Marketing",
+      "Pinterest Marketing",
+      "LinkedIn B2B",
+      "YouTube SEO",
+      "Influencer Marketing",
+      "UGC - User Generated Content",
+      "Community Building",
+      "Viral Loops"
+    ],
+    "Afiliados e Parcerias": [
+      "Programa de Afiliados",
+      "Hotmart/Eduzz",
+      "Joint Ventures",
+      "Co-Marketing",
+      "White Label",
+      "Referral Programs"
+    ]
+  },
+  "Data Science": {
+    "Python para Dados": [
+      "Pandas Avançado",
+      "NumPy e Vetorização",
+      "Matplotlib e Seaborn",
+      "Plotly e Dashboards",
+      "Web Scraping",
+      "APIs e Dados Externos",
+      "SQL + Python",
+      "Automação de Relatórios",
+      "Dask para Big Data",
+      "Polars DataFrame",
+      "Streamlit Apps"
+    ],
+    "Machine Learning": [
+      "Scikit-learn Completo",
+      "Regressão e Classificação",
+      "Clustering e Segmentação",
+      "Feature Engineering",
+      "Cross-Validation",
+      "Hyperparameter Tuning",
+      "Model Deployment",
+      "MLOps",
+      "XGBoost/LightGBM",
+      "AutoML",
+      "Explainable AI",
+      "Time Series Forecasting"
+    ],
+    "Deep Learning": [
+      "TensorFlow 2.x",
+      "PyTorch",
+      "Keras Functional API",
+      "CNNs para Imagens",
+      "RNNs e LSTMs",
+      "Transformers",
+      "Transfer Learning",
+      "GANs",
+      "Object Detection (YOLO)",
+      "NLP com HuggingFace"
+    ],
+    "Big Data": [
+      "Apache Spark",
+      "PySpark",
+      "Hadoop Ecosystem",
+      "Kafka Streaming",
+      "Data Lakes",
+      "Datalakehouse",
+      "Snowflake",
+      "Databricks",
+      "Delta Lake",
+      "Apache Iceberg"
+    ]
+  },
+  "Cybersecurity": {
+    "Ethical Hacking": [
+      "Reconhecimento e Enumeração",
+      "Scanning de Vulnerabilidades",
+      "Exploração de Serviços",
+      "Post-Exploitation",
+      "Web Application Hacking",
+      "Metasploit Framework",
+      "Buffer Overflow",
+      "Privilege Escalation",
+      "Active Directory Attacks",
+      "Wireless Hacking",
+      "Mobile Pentesting"
+    ],
+    "Defesa e SOC": [
+      "SIEM (Splunk, ELK)",
+      "IDS/IPS",
+      "Firewall Management",
+      "Endpoint Protection",
+      "Incident Response",
+      "Forensic Analysis",
+      "Threat Hunting",
+      "Zero Trust Architecture",
+      "EDR/XDR",
+      "Deception Technology"
+    ],
+    "Cloud Security": [
+      "AWS Security (IAM, GuardDuty)",
+      "Azure Security Center",
+      "GCP Security Command Center",
+      "Kubernetes Security (Falco)",
+      "Cloud Workload Protection",
+      "Secrets Management (Vault)",
+      "Serverless Security",
+      "Container Security (Trivy)"
+    ],
+    "Red Team": [
+      "C2 Frameworks (Cobalt Strike)",
+      "Living off the Land",
+      "Bypass EDR",
+      "Domain Persistence",
+      "Lateral Movement",
+      "Purple Team"
+    ]
+  },
+  "Blockchain e Web3": {
+    "Ethereum Development": [
+      "Solidity 0.8.x",
+      "Smart Contracts Audit",
+      "Truffle/Hardhat",
+      "Foundry",
+      "Remix IDE Advanced",
+      "Web3.js/Ethers.js",
+      "The Graph (Subgraphs)",
+      "Gas Optimization Pro"
+    ],
+    "DeFi Protocols": [
+      "Uniswap V3",
+      "Aave V3 Lending",
+      "Curve Finance",
+      "Yearn Finance",
+      "Flash Loans Arbitrage",
+      "MEV Bots",
+      "Liquid Staking (Lido)"
+    ],
+    "NFTs e Gaming": [
+      "ERC-721A/1155",
+      "Dynamic NFTs",
+      "NFT Marketplace",
+      "IPFS + Arweave",
+      "Lazy Minting",
+      "Royalty Enforcement",
+      "Play-to-Earn Economics"
+    ],
+    "Layer 2 e Scaling": [
+      "Optimism",
+      "Arbitrum",
+      "Polygon zkEVM",
+      "StarkNet",
+      "zkSync",
+      "Rollups vs Validiums"
+    ],
+    "Solana Development": [
+      "Rust Programming",
+      "Anchor Framework",
+      "Solana Program Library",
+      "Token Program",
+      "SPL Tokens",
+      "Serum DEX"
+    ]
+  },
+  "DevOps e Cloud": {
+    "Kubernetes Production": [
+      "K8s Cluster Management",
+      "Operators e CRDs",
+      "Service Mesh (Istio/Linkerd)",
+      "Knative Serverless",
+      "Longhorn/Rook Storage",
+      "Prometheus + Grafana",
+      "ArgoCD + GitOps"
+    ],
+    "CI/CD Moderno": [
+      "GitHub Actions Matrix",
+      "GitLab CI Premium",
+      "CircleCI Orbs",
+      "Argo Workflows",
+      "Tekton Pipelines",
+      "Helm 3+ Charts"
+    ],
+    "Multi-Cloud": [
+      "Terraform Cloud",
+      "Pulumi IaC",
+      "Crossplane",
+      "Anthos (Google)",
+      "EKS/GKE/AKS",
+      "Cloud Cost Management"
+    ],
+    "Observability": [
+      "OpenTelemetry",
+      "Grafana Tempo (Traces)",
+      "Pixie (eBPF)",
+      "Grafana Loki (Logs)"
+    ]
+  },
+  "Mobile Development": {
+    "Flutter Production": [
+      "Riverpod State Management",
+      "GoRouter Navigation",
+      "Flame Game Engine",
+      "Firebase ML Kit",
+      "Isar Database",
+      "Riverpod Generators",
+      "Flutter Web PWA"
+    ],
+    "React Native Pro": [
+      "New Architecture (Fabric)",
+      "Reanimated 3",
+      "Vision Camera",
+      "Expo Router",
+      "EAS Build",
+      "Hermes 2",
+      "CodePush OTA"
+    ],
+    "SwiftUI iOS": [
+      "Swift 5.9+",
+      "Async/Await Patterns",
+      "SwiftData",
+      "WidgetKit 4",
+      "RealityKit AR",
+      "StoreKit 2",
+      "App Intents"
+    ],
+    "Kotlin Android": [
+      "Jetpack Compose 1.5",
+      "KMP (Kotlin Multiplatform)",
+      "Ktor Client",
+      "Koin DI",
+      "Paging 3",
+      "Hilt Navigation"
+    ]
+  },
+  "UX/UI Design Pro": {
+    "Design Systems": [
+      "Figma Variables + Modes",
+      "Tokens Studio Pro",
+      "Storybook + Figma",
+      "Zeroheight Docs",
+      "Supernova Sync",
+      "Chromatic Testing"
+    ],
+    "Advanced Research": [
+      "GTM Strategy",
+      "Jobs-to-be-Done",
+      "Opportunity Solution Tree",
+      "Continuous Discovery",
+      "Maze + Hotjar"
+    ],
+    "Motion Design": [
+      "Lottie + After Effects",
+      "Framer Motion",
+      "Principle Pro",
+      "ProtoPie Sensors",
+      "Rive Animations"
+    ]
+  },
+  "Game Development": {
+    "Unity DOTS": [
+      "Entities + Components",
+      "Systems Programming",
+      "Burst Compiler",
+      "Hybrid Renderer",
+      "Netcode for Entities",
+      "DOTS Physics"
+    ],
+    "Unreal 5": [
+      "Nanite + Lumen",
+      "Chaos Physics 2",
+      "Vertex Animation",
+      "Sequencer Cinematic",
+      "Pixel Streaming",
+      "World Partition"
+    ],
+    "Godot 4": [
+      "GDScript 2.0",
+      "C# Integration",
+      "Vulkan Renderer",
+      "Navigation 2.0",
+      "Multiplayer High-Level"
+    ]
+  },
+  "AR/VR/MR": {
+    "Vision Pro": [
+      "SwiftUI + RealityKit",
+      "visionOS Personas",
+      "Spatial Computing",
+      "Volume Material",
+      "Entity Component System"
+    ],
+    "Quest Development": [
+      "OpenXR Runtime",
+      "Hand Tracking",
+      "Passthrough MR",
+      "Body Tracking",
+      "Eye Gaze"
+    ]
+  },
+  "IoT Industrial": {
+    "Edge AI": [
+      "TensorFlow Lite Micro",
+      "Coral Dev Board",
+      "NVIDIA Jetson Nano",
+      "OpenVINO Intel",
+      "AWS IoT Greengrass ML"
+    ],
+    "Industrial Protocols": [
+      "OPC UA",
+      "MQTT Industrial",
+      "Modbus TCP",
+      "PROFINET",
+      "EtherCAT"
+    ]
+  },
+  "Quantum Computing": {
+    "Qiskit Advanced": [
+      "Quantum Error Correction",
+      "Qiskit Runtime",
+      "Dynamic Circuits",
+      "Pulse Programming",
+      "IBM Quantum Eagle"
+    ],
+    "PennyLane": [
+      "Quantum ML Hybrid",
+      "QML Frameworks",
+      "Quantum Optimizers"
+    ]
+  },
+  "SaaS Engineering": {
+    "Multi-Tenant": [
+      "Database Sharding",
+      "Schema Separation",
+      "Tenant Isolation",
+      "Usage Metering",
+      "Feature Flags (LaunchDarkly)"
+    ],
+    "Subscription Billing": [
+      "Stripe Billing",
+      "Chargebee",
+      "Paddle",
+      "RevenueCat Mobile",
+      "Proration Logic"
+    ]
+  },
+  "No-Code Platforms": {
+    "Bubble Advanced": [
+      "Custom Plugins",
+      "API Workflows",
+      "Database Optimization",
+      "Privacy Rules Pro"
+    ],
+    "Webflow Enterprise": [
+      "Logic Flows",
+      "CMS Collections",
+      "E-commerce Checkout",
+      "Memberships"
+    ],
+    "Airtable Automation": [
+      "Make/Integromat",
+      "Zapier Advanced",
+      "Scripting Blocks"
+    ]
+  },
+  "E-commerce Headless": {
+    "Shopify Hydrogen": [
+      "React Server Components",
+      "Vite + Remix",
+      "Storefront API GraphQL",
+      "Hydrogen Middleware"
+    ],
+    "Medusa.js": [
+      "Node.js Headless",
+      "Next.js Frontend",
+      "Plugin Architecture",
+      "Multi-Store"
+    ],
+    "Saleor": [
+      "GraphQL-First",
+      "Django + React",
+      "Internationalization",
+      "Warehouse Management"
+    ]
+  },
+  "API Development": {
+    "GraphQL Federation": [
+      "Apollo Federation",
+      "Schema Stitching",
+      "Gateway Management",
+      "Remote Schema Resolvers"
+    ],
+    "gRPC Microservices": [
+      "Protocol Buffers 3",
+      "gRPC-Web",
+      "Istio Service Mesh",
+      "Envoy Proxy"
+    ],
+    "REST API Pro": [
+      "API Versioning",
+      "Rate Limiting",
+      "OAuth 2.1",
+      "OpenAPI 3.1"
+    ]
+  },
+  "Performance Engineering": {
+    "Web Vitals Pro": [
+      "Core Web Vitals Audit",
+      "RUM Analytics",
+      "Lazy Loading Mastery",
+      "Critical CSS"
+    ],
+    "Backend Performance": [
+      "Database Indexing Pro",
+      "Query Optimization",
+      "Caching Strategies (Redis)",
+      "Async Processing (BullMQ)"
+    ]
+  },
+  "Content Creation": {
+    "Video Production": [
+      "DaVinci Resolve",
+      "Premiere Pro Automation",
+      "After Effects Expressions",
+      "Motion Graphics Templates"
+    ],
+    "Podcast Production": [
+      "Adobe Audition",
+      "Hindenburg Journalist",
+      "Riverside.fm",
+      "Descript Overdub"
+    ]
+  },
+  "Tecnologia da Informação": {
+    "Fundamentos de TI": [
+      "Arquitetura de Computadores",
+      "Redes de Computadores",
+      "Protocolos de Rede",
+      "Segurança da Informação",
+      "Cloud Computing"
+    ],
+    "Sistemas Operacionais": [
+      "Windows Server",
+      "Linux/Unix",
+      "Virtualização",
+      "Gerenciamento de Processos",
+      "Sistemas de Arquivos"
+    ],
+    "Banco de Dados": [
+      "Modelagem de Dados",
+      "SQL e NoSQL",
+      "Normalização",
+      "Procedures e Triggers",
+      "Otimização de Consultas"
+    ],
+    "Desenvolvimento de Software": [
+      "Metodologias Ágeis",
+      "Scrum e Kanban",
+      "DevOps",
+      "Versionamento com Git",
+      "Testes de Software"
+    ]
+  },
+  "Tecnólogo": {
+    "Análise e Desenvolvimento de Sistemas": [
+      "Algoritmos e Lógica de Programação",
+      "Estruturas de Dados",
+      "Programação Orientada a Objetos",
+      "Banco de Dados Relacionais",
+      "Desenvolvimento Web Front-end",
+      "Desenvolvimento Web Back-end",
+      "APIs RESTful",
+      "Arquitetura de Software",
+      "UML e Modelagem",
+      "Engenharia de Software"
+    ],
+    "Gestão Comercial": [
+      "Técnicas de Vendas",
+      "Gestão de Relacionamento com o Cliente (CRM)",
+      "Negociação Empresarial",
+      "Comportamento do Consumidor",
+      "Varejo e E-commerce",
+      "Canais de Distribuição"
+    ],
+    "Gestão da Qualidade": [
+      "Ferramentas da Qualidade",
+      "Normas ISO 9001",
+      "Controle Estatístico de Processos",
+      "Six Sigma",
+      "Auditoria da Qualidade",
+      "Melhoria Contínua"
+    ],
+    "Gestão de Marketing": [
+      "Planejamento de Marketing",
+      "Marketing Digital",
+      "SEO e SEM",
+      "Gestão de Marcas (Branding)",
+      "Marketing de Conteúdo",
+      "Métricas e Analytics"
+    ],
+    "Gestão de Recursos Humanos": [
+      "Recrutamento e Seleção",
+      "Treinamento e Desenvolvimento",
+      "Gestão de Cargos e Salários",
+      "Departamento Pessoal",
+      "Legislação Trabalhista",
+      "Benefícios e Remuneração"
+    ],
+    "Gestão Financeira": [
+      "Contabilidade Básica",
+      "Gestão de Custos",
+      "Matemática Financeira",
+      "Mercado Financeiro",
+      "Análise de Demonstrativos Financeiros",
+      "Planejamento Tributário"
+    ],
+    "Logística": [
+      "Gestão de Estoques",
+      "Transporte e Distribuição",
+      "Armazenagem",
+      "Supply Chain Management",
+      "Logística Reversa",
+      "Custos Logísticos"
+    ],
+    "Processos Gerenciais": [
+      "Empreendedorismo",
+      "Gestão de Projetos",
+      "Business Model Canvas",
+      "Plano de Negócios",
+      "Inovação e Tecnologia"
+    ],
+    "Produção Audiovisual": [
+      "Roteiro e Storytelling",
+      "Edição de Vídeo",
+      "Direção de Fotografia",
+      "Produção Executiva",
+      "Pós-Produção",
+      "Motion Graphics"
+    ],
+    "Produção Fonográfica": [
+      "Gravação de Áudio",
+      "Mixagem e Masterização",
+      "Acústica",
+      "Produção Musical",
+      "Equipamentos de Áudio"
+    ],
+    "Design de Moda (Tecnólogo)": [
+      "Desenho de Moda",
+      "Modelagem Plana",
+      "Costura e Confecção",
+      "Estamparia e Tinturaria",
+      "Coleção de Moda"
+    ],
+    "Estética e Cosmética": [
+      "Cosmetologia",
+      "Procedimentos Estéticos Faciais",
+      "Procedimentos Estéticos Corporais",
+      "Massoterapia",
+      "Visagismo"
+    ],
+    "Comércio Exterior": [
+      "Negócios Internacionais",
+      "Logística Internacional",
+      "Documentação de Importação e Exportação",
+      "Incoterms",
+      "Câmbio e Pagamentos Internacionais"
+    ],
+    "Segurança da Informação": [
+      "Ethical Hacking",
+      "Criptografia",
+      "Firewall e IDS",
+      "Auditoria de Segurança",
+      "Pentest",
+      "Políticas de Segurança"
+    ],
+    "Redes de Computadores": [
+      "Cabeamento Estruturado",
+      "Switches e Roteadores",
+      "Wireless",
+      "VPN",
+      "Troubleshooting de Rede"
+    ]
+  }
+}
